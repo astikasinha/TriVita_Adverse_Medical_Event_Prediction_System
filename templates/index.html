@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Symptom Analysis Tool</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Symptom Analysis Tool</h1>
+    
+    <!-- Audio Upload Form -->
+    <h3>Upload Audio File for Transcription</h3>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+      <input type="file" name="file" accept="audio/*" required>
+      <button type="submit">Upload File</button>
+    </form>
+    
+    <!-- Transcription Section -->
+    {% if transcription %}
+      <h2>Transcribed Text:</h2>
+      <pre>{{ transcription }}</pre>
+    {% endif %}
+    
+    <!-- Symptom Analysis Form -->
+    <h3>Analyze Symptoms</h3>
+    <form method="POST" action="/predict">
+      <textarea name="text" placeholder="Enter your symptoms here..." required>{{ transcription or '' }}</textarea>
+      <button type="submit">Analyze</button>
+    </form>
+
+    <!-- Analysis Results Section -->
+    {% if analysedoutput %}
+      <h2>Analysis Result:</h2>
+      <p>{{ analysedoutput }}</p>
+    {% endif %}
+    
+    <!-- Download Link (if available) -->
+    {% if report_filename %}
+    <a href="{{ url_for('download', filename=report_filename) }}" class="btn btn-primary">Download Report</a>
+{% endif %}
+
+  </div>
+
+  <script>
+    // Any additional JavaScript if needed
+  </script>
+</body>
+</html>
