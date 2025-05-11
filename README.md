@@ -5,7 +5,7 @@ Our Project is live at https://trivita-adverse-medical-event-prediction-1o7k.onr
 
 Working Prototype Video Link: https://vimeo.com/1083255406/80bbb9d551?share=copy
 
-A machine learning–powered NLP tool that classifies user-described symptoms into categories like **mild**, **adverse**, or **critical**. It highlights the most influential keywords contributing to the prediction and generates a **comprehensive PDF report** for medical or analytical use.
+A machine learning–powered NLP tool that classifies user-described symptoms into categories like **not serious**, **adverse**, or **moderate**. It highlights the most influential keywords contributing to the prediction and generates a **comprehensive PDF report** for medical or analytical use.
 
 ---
 
