@@ -31,7 +31,7 @@ To provide healthcare professionals and researchers with an **automated pipeline
 
 ---
 
-
+## Figma Link : https://www.figma.com/design/76YXjaHT7Kj3E9lETOmWJc/Adverse-Health-Event-Prediction-System?node-id=0-1&t=hk8aacMqHrrXKZ9b-1
 
 ##  Machine Learning Pipeline
 
