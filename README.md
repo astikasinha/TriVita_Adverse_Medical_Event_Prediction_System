@@ -1,15 +1,15 @@
 #  Adverse Medical Prediction System
 
 
-## Our Project is live at https://trivita-adverse-medical-event-prediction-1o7k.onrender.com
+#### Our Project is live at https://trivita-adverse-medical-event-prediction-1o7k.onrender.com
 
 #### Working Prototype Video Link: https://vimeo.com/1083255406/80bbb9d551?share=copy
 
-## Presentation Link: https://vimeo.com/1083284085/77a28fd180?share=copy
+#### Presentation Link: https://vimeo.com/1083284085/77a28fd180?share=copy
 
-## Figma Link : https://www.figma.com/design/76YXjaHT7Kj3E9lETOmWJc/Adverse-Health-Event-Prediction-System?node-id=0-1&t=hk8aacMqHrrXKZ9b-1
+#### Figma Link : https://www.figma.com/design/76YXjaHT7Kj3E9lETOmWJc/Adverse-Health-Event-Prediction-System?node-id=0-1&t=hk8aacMqHrrXKZ9b-1
 
-## Presentation PowerPoint Access: https://www.canva.com/design/DAGnINXrG-Y/G7b4IqCt5bVwm6eaqiTiHw/view?utm_content=DAGnINXrG-Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9871d16a7e
+#### Presentation PowerPoint Access: https://www.canva.com/design/DAGnINXrG-Y/G7b4IqCt5bVwm6eaqiTiHw/view?utm_content=DAGnINXrG-Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9871d16a7e
 
 A machine learning–powered NLP tool that classifies user-described symptoms into categories like **not serious**, **adverse**, or **moderate**. It highlights the most influential keywords contributing to the prediction and generates a **comprehensive PDF report** for medical or analytical use.
 
