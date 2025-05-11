@@ -3,7 +3,7 @@
 
 ## Our Project is live at https://trivita-adverse-medical-event-prediction-1o7k.onrender.com
 
-### Working Prototype Video Link: https://vimeo.com/1083255406/80bbb9d551?share=copy
+#### Working Prototype Video Link: https://vimeo.com/1083255406/80bbb9d551?share=copy
 
 ## Presentation Link: https://vimeo.com/1083284085/77a28fd180?share=copy
 
