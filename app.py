@@ -20,7 +20,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(REPORT_FOLDER, exist_ok=True)
 
 # Load models
-whisper_model = WhisperModel("base", compute_type="int8")
+whisper_model = WhisperModel("tiny", compute_type="int8")
 symptom_classifier_model = joblib.load(os.path.join(BASE_DIR, "symptom_classifier_model_second.pkl"))
 vectorizer = joblib.load(os.path.join(BASE_DIR, "symptom_vectorizer.pkl"))
 
