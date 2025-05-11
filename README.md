@@ -30,8 +30,7 @@ To provide healthcare professionals and researchers with an **automated pipeline
 - Generating structured reports for offline or clinical use.
 
 ---
-## Flow Structure of the Project :
-![image](https://github.com/user-attachments/assets/f0796b37-bf0f-400b-910a-fc32131342a7)
+
 
 
 ##  Machine Learning Pipeline
