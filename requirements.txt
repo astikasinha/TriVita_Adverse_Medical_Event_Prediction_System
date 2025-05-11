@@ -1,3 +1,4 @@
+faster_whisper
 scikit-learn
 pandas
 joblib
