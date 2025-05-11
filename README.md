@@ -7,6 +7,8 @@ Working Prototype Video Link: https://vimeo.com/1083255406/80bbb9d551?share=copy
 
 Presentation Link: https://vimeo.com/1083284085/77a28fd180?share=copy
 
+Presentation PowerPoint Access: https://www.canva.com/design/DAGnINXrG-Y/BmDIHl8SPB8qpWINjupYmg/edit?utm_content=DAGnINXrG-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 A machine learning–powered NLP tool that classifies user-described symptoms into categories like **not serious**, **adverse**, or **moderate**. It highlights the most influential keywords contributing to the prediction and generates a **comprehensive PDF report** for medical or analytical use.
 
 ---
