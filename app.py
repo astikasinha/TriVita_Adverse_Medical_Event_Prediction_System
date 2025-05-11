@@ -11,7 +11,7 @@ app = Flask(__name__)
 app.secret_key = '@abbc123*88$$$%251**vdka'
 
 # Setup absolute paths
-BASE_DIR = r"C:\Users\astik\OneDrive\Desktop\VEERSANEW\veersa"
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_FOLDER = os.path.join(BASE_DIR, "uploads")
 REPORT_FOLDER = os.path.join(BASE_DIR, "reports")
 
