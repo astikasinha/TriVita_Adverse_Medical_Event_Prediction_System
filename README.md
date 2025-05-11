@@ -54,7 +54,7 @@ To provide healthcare professionals and researchers with an **automated pipeline
 | Column | Description                     |
 |--------|---------------------------------|
 | text   | Symptom description (e.g. "paralysis in limbs") |
-| label  | Severity category (`mild`, `adverse`, `critical`) |
+| label  | Severity category (`not serious`, `adverse`, `moderate`) |
 
 ---
 
