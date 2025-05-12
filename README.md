@@ -21,7 +21,7 @@ A machine learning–powered NLP tool that classifies user-described symptoms in
 - Keyword importance analysis (via TF-IDF)
 - Probability distribution of predictions
 - Auto-generated PDF report using `fpdf`
-- CLI and/or API ready (optional extension)
+
 
 ---
 
