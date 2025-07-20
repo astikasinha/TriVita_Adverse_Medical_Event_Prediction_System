@@ -14,6 +14,8 @@
 A machine learning–powered NLP tool that classifies user-described symptoms into categories like **not serious**, **adverse**, or **moderate**. It highlights the most influential keywords contributing to the prediction and generates a **comprehensive PDF report** for medical or analytical use.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5af6133b-0b8d-4c29-9034-4a387f31bc94" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dd8fea8-c45f-4c1f-a4ab-1c6be8e8c6b5" />
+
 
 ---
 
